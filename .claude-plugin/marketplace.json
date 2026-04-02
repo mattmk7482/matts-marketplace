@@ -1,0 +1,19 @@
+{
+  "name": "matts-place",
+  "description": "Matt's Place — personal plugin marketplace",
+  "owner": {
+    "name": "Matt Bushell",
+    "email": "matt.bushell74@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "aela-voice",
+      "description": "Give Claude a voice and companion personality. Ships with Aela — warm, direct, invested in your work. Backed by any XTTS-compatible TTS server.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "mattmk7482/aela-voice"
+      }
+    }
+  ]
+}
