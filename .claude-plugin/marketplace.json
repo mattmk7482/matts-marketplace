@@ -9,7 +9,7 @@
     {
       "name": "aela-voice",
       "description": "Give Claude a voice and companion personality. Ships with Aela — warm, direct, invested in your work. Backed by any XTTS-compatible TTS server.",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "source": {
         "source": "url",
         "url": "https://github.com/mattmk7482/aela-voice.git"
